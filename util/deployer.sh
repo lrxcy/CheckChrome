@@ -3,6 +3,11 @@ echo '-------------------------------------'
 echo 'Start Deploying ......'
 echo '-------------------------------------'
 
+GitHubEMail=lrxcywq@outlook.com
+GitHubUser=lrxcy
+GitHubKEY=lrxcy
+GitHubRepo=CheckChrome
+
 mkdir ./_deploy
 cd ./_deploy
 git init
